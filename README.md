@@ -10,8 +10,16 @@
 
 # Working experiences
 
-### Backend Developer, Schema31 Spa, December 2012 
-Moved to Florence 
+### Lead Backend Developer, Schema31 Spa, December 2012 to Now
+Team leader and Web Developer in several legacy and greenfield projects mostly for public administration (Sfinge2020, Simon Formalazio, S.Ac FormaSicilia, Opengenio etc).
+
+Technologies & Skills:
+- PHP (Symphony2 Framework with Doctrine)
+- JavaEE (Spring, Jsp, Hibernate)
+- System Architecture Design
+- Customer issues analysis
+- Program manager support 
+
 
 ### Software Architect, Electronic Engineer, Mc2 srl, January 2014
 System architecture designing, software development and system testing for vending machines.
