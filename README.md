@@ -19,8 +19,9 @@ Diploma in “non-graduate engineer” specialized in electronics and telecommun
 
 # Personal skills and competences
 
-### “Lonardo” Project, Apr 2007
-Moved to Ireland for working as a trainee at Intel Ireland
+### “Lonardo” Project, Intel Ireland, Apr - Jul 2007
+In December 2006 I won a scholarship called “Leonardo Project” offered from MIT (Marche Innovation Training). 
+By this scholarship I worked about 4 months at “Intel Ireland”, Leixlip Co.Kildare, Ireland. I developed a control system for the silicon wafer etching process and I did my Bachelor degree thesis there. 
 
 
 ### National contest for high school, Catanzaro, Dec 2002:
