@@ -10,6 +10,9 @@
 
 # Education
 
+### Bachelor degree, Univpm, Oct 2003
+Start bachelor degree as Engineer in Computer Science and Automation 
+
 ### High School, July 2003
 Diploma in “non-graduate engineer” specialized in electronics and telecommunications with the comprehensive score of 100/100 at the technical institute  “Gugliermo Marconi” in Jesi, Italy.
 
