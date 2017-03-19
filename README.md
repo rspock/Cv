@@ -17,6 +17,7 @@ Moved to Florence
 System architecture designing, software development and system testing for vending machines.
 Oct 2014 First vending machine released
 May 2015 Second vending machine released
+Sept 2015 third vending machine released
 
 ### Electronic Dept. Engineer, Sipa Berchi spa, September 2011 – December 2012
 I was in charge of developing the control system for palletizers and bottling machines moreover I dealt with calibration and testing at the workshop.
