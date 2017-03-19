@@ -8,6 +8,15 @@
 
 **Date of birth:** 28th of February 1984 (1984/02/28)
 
+# Working experiences
+
+### Internship at Technical Office, BCB Electric srl, March 2011 – August 2011
+I was involved in designing and developing of a fault detection system for boilers based on computer vision. I also supported the technical lead to develop a system for collecting data from boilers test bench.
+
+Technologies & Skills:
+-Labview
+
+
 # Education
 
 ### Master degree, Univpm, Feb 2011
