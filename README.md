@@ -45,3 +45,10 @@ On the summer of 2001 I made a tree weeks training period in a little company ca
 This company develops, designs and builds board for aspirators.
 In this period I have designed PCB board.
 
+# Publications
+- Longhi, S. et al. “An educational opportunity for master students in mobile robotics: Traiano Project”, in the proceedings of the International Workshop on Robotics in Alpe-Adria-Danube Region (RAAD 2008), Universita’ Politecnica delle Marche, Ancona, Italy.
+
+- Longhi, S. et al. “Traiano: an Educational (but not only) experience for masters students”, In the proceeding of the Eurobot 2008 conference, at SHR Heidelberg, Germany.
+
+
+
