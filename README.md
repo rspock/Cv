@@ -10,8 +10,8 @@
 
 # Education
 
-### High School, Sep 1998
-Start high school at technical institute  “Gugliermo Marconi” in Jesi, Italy.
+### High School, July 2003
+Diploma in “non-graduate engineer” specialized in electronics and telecommunications with the comprehensive score of 100/100 at the technical institute  “Gugliermo Marconi” in Jesi, Italy.
 
 
 # Personal skills and competences
