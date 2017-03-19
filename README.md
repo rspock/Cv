@@ -10,8 +10,8 @@
 
 # Education
 
-### Master degree, Univpm, Oct 2007
-Start master degree in industrial automation 
+### Master degree, Univpm, Feb 2011
+Engineer in Industrial Automation with final score of 110 cum laude from the “Università Politecnica delle Marche”. The final thesis was: “People tracking into indoor environment”.
 
 ### Bachelor degree, Univpm, Oct 2007
 Engineer in Computer Science and Automation from the “Università Politecnica delle Marche” whit a score of 109/110.  The thesis was: Development of a digital controller in the etching process of the silicon wafers surface”.
