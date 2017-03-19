@@ -22,6 +22,10 @@ Diploma in “non-graduate engineer” specialized in electronics and telecommun
 
 # Personal skills and competences
 
+### Ecapital Project, Marche capital, Apr - Sept 2010
+From April to September 2010 I participate to a contest called Ecapital (www.ecapital.it). This is a contest for new and innovative business plan sponsored by “Regione Marche”, “Marche Capital” and others.
+My business plan is about what I have done on my thesis and it concerns domotics. At least it was one of the finalists.
+
 ### College Project “Traiano Eurobot 2008”, Univpm, Dec 2007 - May 2008
 I got involved to the college project “Traiano”. The team built a fully independent robot which participated to the Eurobot 2008 competition. 
 
