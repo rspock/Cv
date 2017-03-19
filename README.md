@@ -22,6 +22,10 @@ Diploma in “non-graduate engineer” specialized in electronics and telecommun
 
 # Personal skills and competences
 
+### College Project “Traiano Eurobot 2008”, Univpm, Dec 2007 - May 2008
+I got involved to the college project “Traiano”. The team built a fully independent robot which participated to the Eurobot 2008 competition. 
+
+
 ### “Lonardo” Project, Intel Ireland, Apr - Jul 2007
 In December 2006 I won a scholarship called “Leonardo Project” offered from MIT (Marche Innovation Training). 
 By this scholarship I worked about 4 months at “Intel Ireland”, Leixlip Co.Kildare, Ireland. I developed a control system for the silicon wafer etching process and I did my Bachelor degree thesis there. 
@@ -40,4 +44,11 @@ During this period we developed a robot based on stiquito's structure(www.stiqui
 On the summer of 2001 I made a tree weeks training period in a little company called “Elin s.r.l.”. 
 This company develops, designs and builds board for aspirators.
 In this period I have designed PCB board.
+
+# Publications
+- Longhi, S. et al. “An educational opportunity for master students in mobile robotics: Traiano Project”, in the proceedings of the International Workshop on Robotics in Alpe-Adria-Danube Region (RAAD 2008), Universita’ Politecnica delle Marche, Ancona, Italy.
+
+- Longhi, S. et al. “Traiano: an Educational (but not only) experience for masters students”, In the proceeding of the Eurobot 2008 conference, at SHR Heidelberg, Germany.
+
+
 
