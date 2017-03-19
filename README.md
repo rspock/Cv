@@ -22,6 +22,10 @@ Diploma in “non-graduate engineer” specialized in electronics and telecommun
 
 # Personal skills and competences
 
+### College Project “Traiano Eurobot 2008”, Univpm, Dec 2007 - May 2008
+I got involved to the college project “Traiano”. The team built a fully independent robot which participated to the Eurobot 2008 competition. 
+
+
 ### “Lonardo” Project, Intel Ireland, Apr - Jul 2007
 In December 2006 I won a scholarship called “Leonardo Project” offered from MIT (Marche Innovation Training). 
 By this scholarship I worked about 4 months at “Intel Ireland”, Leixlip Co.Kildare, Ireland. I developed a control system for the silicon wafer etching process and I did my Bachelor degree thesis there. 
