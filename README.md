@@ -13,6 +13,18 @@
 ### Backend Developer, Schema31 Spa, December 2012 
 Moved to Florence 
 
+### Software Architect, Electronic Engineer, Mc2 srl, January 2014
+System architecture designing, software development and system testing for vending machines.
+
+Technologies & Skills:
+- Development of the main machine application which manage UI, products, transactions, errors report, system configuration and setup (C++/Qt, Linux Yocto and arm i.mx6 SBC)
+- Firmware development for custom low level board based on 32bit Microchip controller(C/Mplab-x)
+- On-site testing
+- Electronic measurements
+- System integration
+- Field bus (RS-485)
+
+
 ### Electronic Dept. Engineer, Sipa Berchi spa, September 2011 – December 2012
 I was in charge of developing the control system for palletizers and bottling machines moreover I dealt with calibration and testing at the workshop.
 
