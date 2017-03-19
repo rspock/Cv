@@ -10,6 +10,20 @@
 
 # Working experiences
 
+### Electronic Dept. Engineer, Sipa Berchi spa, September 2011 – December 2012
+I was in charge of developing the control system for palletizers and bottling machines moreover I dealt with calibration and testing at the workshop.
+
+Technologies & Skills:
+- Plc (Siemens S7, Omron)
+- HMI (Siemens WinCC)
+- Motor driver and Motion Control (Danfoss/Sew)
+- Machine setup testing
+- Power panel testing
+- Sensors calibration
+- On site setup
+- Machinery Safety
+
+
 ### Internship at Technical Office, BCB Electric srl, March 2011 – August 2011
 I was involved in designing and developing of a fault detection system for boilers based on computer vision. I also supported the technical lead to develop a system for collecting data from boilers test bench.
 
