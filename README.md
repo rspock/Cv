@@ -10,6 +10,9 @@
 
 # Working experiences
 
+### Backend Developer, Schema31 Spa, December 2012 
+Moved to Florence 
+
 ### Electronic Dept. Engineer, Sipa Berchi spa, September 2011 – December 2012
 I was in charge of developing the control system for palletizers and bottling machines moreover I dealt with calibration and testing at the workshop.
 
